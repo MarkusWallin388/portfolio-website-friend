@@ -1,4 +1,4 @@
-# Emelie Eriksson
+# Alice Eriksson
 
 Collaborative software engineer
 
@@ -8,4 +8,4 @@ Collaborative software engineer
 
 ## My skills
 
-* Git and GitHub
+* Git and GitHub, very good at everything
