@@ -8,4 +8,4 @@ Collaborative software engineer
 
 ## My skills
 
-* Git and GitHub, very good at everything except being emilie
+* Git and GitHub, very good at everything except being Emilie. and cooking hotdogs.
