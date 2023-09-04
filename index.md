@@ -2,6 +2,10 @@
 
 Collaborative software engineer
 
-## CDIO in Physics
+## My Projects
 
-## Python, vim, unicycle, git
+* Collaborative Software Project in Computational Physics
+
+## My skills
+
+* Git and GitHub
